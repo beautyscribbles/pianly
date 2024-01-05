@@ -35,14 +35,14 @@ Here is a simple flow for the user experience on Pianly:
 Installing the programs necessary to view this project is pretty simple!
 
 We'll be using [`npm`](https://www.npmjs.com/get-npm) to install Vue and Vue-CLI. First clone this repo, then navigate to the root and [install Vue](https://vuejs.org/v2/guide/installation.html) by executing this command:
-`puppr$ npm install vue`
+`pianly$ npm install vue`
 
 Once that has finished, [install Vue-CLI](https://cli.vuejs.org/guide/installation.html) with this command:
-`puppr$ npm install -g @vue/cli`
+`pianly$ npm install -g @vue/cli`
 
-In case there are any missing dependencies, please execute `puppr$ npm install` to get them. If there's an error, it should return the specific command you need to enter.
+In case there are any missing dependencies, please execute `pianly$ npm install` to get them. If there's an error, it should return the specific command you need to enter.
 
-Once this is all done you're ready to run **PuppR**! Still in the root of this directory, simply execute `puppr$ npm run serve` and give it a few seconds to get started. Once it's up, you can open your web browser and enter `localhost:8080`. This will allow you to try out **PuppR**!
+Once this is all done you're ready to run **Pianly**! Still in the root of this directory, simply execute `pianly$ npm run serve` and give it a few seconds to get started. Once it's up, you can open your web browser and enter `localhost:8080`. This will allow you to try out **PuppR**!
 
 When you are finished simply go back to your terminal and hit `ctrl + c` to quit the program.
 
@@ -91,21 +91,13 @@ The obvious choice for storing users' information. It provides straightforward i
 
 # Acknowledgments
 
-* Holberton School staff - For the help, advice and resources they provided us with during this project and during all our curriculum.
-
 * Cohort 15 and all Holberton students - For your friendship, invaluable support, and insight not only for this project, but over the last year.
-
-* Our dogs (or friends' dogs) - For the inspiration, courage and love they brought us when we were working hard and tired.
-
-* Romain Bonhomme - For his incredible Vue.js knowledge and overall front-end good practices.
-
-* Valentin Roudge - For his help and advice in Node.js and architecture best practices.
 
 * YOU - For reading this documentation and testing out **Pianly**. We hope you enjoyed the ride!
 
 # Related projects
 
-* [AirBnB Clone](https://github.com/beautyscribbles/AirBnB_clone_v2): a simple web app made in Python, Flask, and JQuery.
+* [AirBnB Clone](https://github.com/beautyscribbles/AirBnB_clone): a simple web app made in Python, Flask, and JQuery.
 
 * [Simple Shell](https://github.com/trinixei/simple_shell): a command line interpreter that replicates the sh program.
 
