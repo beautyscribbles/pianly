@@ -1,6 +1,5 @@
 # PIANLY
 
-![logo](./)
 
 # Introduction
 
